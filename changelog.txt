@@ -1,0 +1,109 @@
+***HUGE UPDATE!***
+
+***NEW WORLDS ARE HIGHLY RECOMMENDED!***
+
+EXISTING WORLDS WILL PROBABLY NOT PLAY WELL WITH THIS UPDATE! 
+BACK UP YOUR WORLD BEFORE PLAYING WITH THIS UPDATE!
+
+
+MAJOR Changes:
+
+	+ LIMITED INVENTORY SPACE
+		+ Inventory slots start locked (except your hotbar) and must now be unlocked using XP. This has always been the intention, but now it's a reality! :D
+		+ Slots are unlocked by spending xp. Slots are not lost upon death.	
+
+	+ SKILLS! (GokiSkills Mod - Default Key: Home) You can now spend XP to gain benefits of your choice!  Including, but not limited to:
+			* Proficiency in Mining, Digging, and Trimming (Shears)
+			* Jump farther and higher
+			* Do more damage with certain types of weapons
+			* .. and more!
+	
+	+ SHIPS MOD REPLACING ARCHIMEDES SHIPS
+		+ SMP experienced several desync issues using Archimedes ships and as such as been replaced by the Ships mod, by Cuchaz. This will cause any ships you've built already to stop functioning until you integrate them with the new mod. Ships also has a much more unique way of building/using ships that was more interesting.
+				
+
+
+MINOR Changes:
+
+NPCs:
+	+ Banker - Sometimes spawns in villages. Allows you to exchange your coins for emeralds to trade with the villagers.
+	+ Corrected/shortened Scarecrow dialogue/quest details.
+	+ Corrected "Your Conscience" dialogue.
+	* Renamed a certain Market NPC to "Mikey" as his former name was not family friendly.
+
+
+OTHER: 
+	+ New Allies - Archers, Knights, and Mages! See more in the section below.
+	+ New Enemy - Bloodthirsty Zombie. (Should) Spawn somewhat rarely, and only during a full moon; like the Plague Spreader. These are no ordinary zombie, deal extra damage, and can outrun the average player.
+	+ Zombie appetites are now insatiable! They will eat almost everything in sight, including your livestock, and even food on the ground.
+	+ Twilight Forest catalyst item change.
+		* Item used to create the Twilight Forest portal has changed from a Diamond to the Twilight Forest Portal Catalyst - Crafting recipe available via NEI.
+	+ Updated textures for some existing mods from their later versions (e.g Nether Ores, Mowzie's Mobs), and added a few custom textures.
+	+ Made most the custom dungeons spawn with unbreakable blocks.
+	+ Custom music for each Biome type, and some events, like Boss fights, mob battles, rain/storms, going underground, night time, etc.
+	+ Stamina system has been reintroduced. Don't run out in combat or you might find yourself in a predicament!
+
+
+
+ADDED:
+	+ ArchaicFix - Fixes a plethora of issues in 1.7.10 code and greatly boosts game performance. Woohoo!
+	+ CallowCraft - Groups XP drops together.  Reduces lag/memory use, and easier to collect XP drops.
+	+ Castle Defenders - Adds Archers, Knights, and Mages that will fight for you. The higher the level, the more accurage they are and the more damage they deal. These however, are uncraftable, and must be purchased from The Collector NPC by finding his hut. There might be a few variations of this NPC, so you'll have to hunt down the right one!
+	+ Cleanview - Removes potion particles from the player perspective.
+	+ Controlling - Enables searchable keybindings.
+	+ Darwin Water Ambience - Adds new awesome water effects.
+	+ Disenchant Table - Remove enchantments from items. 25% chance that an enchantment will be lost upon disenchanting an item.
+	+ Doors - Adds a couple new door styles.
+	+ GokiSkills - Spend XP to improve your stats.
+	+ Hardcore Ender Expansion - Because the Ender Dragon fight is supposed to be "end game" material, and it was definitely not.
+	+ Hearts - Mobs now have a chance to drop hearts on death. Walking over a heart will automatically consume it and heal 1 heart of damage.
+	+ Hungry Zombies - Zombies now try to eat everything, including your livestock, as I imagine "real" zombies would do.  As mentioned above, their appetites are insatiable.
+	+ InfiniteInvo - Inventory slots start locked, and can be unlocked with XP.
+	+ ItemSearch - Search nearby chests with a simple command. Matching items show up in red text. Command syntax: "/search <name|clear> [radius]"
+	+ KoRIN Regions - Adds a nice popup announcing the Biome change.
+	+ Music Choices - Custom music for minecraft events (night time, boss fights, biome changes, etc.) 
+	+ Name Pain - Makes it easier to see when your friends/allies are in trouble.
+	+ Not Enough Pets - Adds the parrot as a new pet type, and overhauls existing pets' behavior (Cats/Dogs).
+	+ Placeable Gunpowder - No more redstone required to light TNT. Leave a trail of gunpowder instead!
+	+ Placeable Tools - No where to put your tool? Taking up too much space on your hotbar? Stick your axe in a tree instead!
+	+ Real Bench - Crafting Tables hold their inventory, and other players can see your crafting process. Items drop when table is broken.
+	+ Realistic Brewing Stand - If you put a potion in brewing stand, it will now be visible on the stand.
+	+ Serene Seasons - Seasons will now change, which can affect crop growth.
+	+ Ships - Replaced Archimedes Ships. More immersive, and (hopefully) works better than Archimedes in 1.7.10 (Hoping for less desync!)
+	+ Sleep - After sleeping through the night, receive a regeneration buff for 10 seconds. Now sleep REALLY rejuvinates you!
+	+ Sound Filters - Adds reverb to caves, and mutes sounds when you're underwater and when the sound source is behind a wall.
+	+ Special AI - Monsters (Skeletons and Zombies) now push buttons, break light sources, and blocks like your bed, crafting tables, walls, fences, etc. Build to defend.
+	+ Trashslot - Adds a Garbage slot to the inventory window.
+	+ Twilight Forest Catalyst - Changes the item used to create the Twilight Forest portal.
+	+ Waila Events/Waila Inhibitors - WAILA will not function in the dark (looking at a block will not display it's information like block type, harvestability, etc).  Try placing a light source if you can't see the information you'd expect.
+	+ Several other QOL mods/improvements.
+	+ Tidbits - Adds scaffolding to help build in Survival mode.
+	+ Vine Climber - Allows you to climb vines that are hanging free with the jump key.
+	+ Updated several existing mods to their latest versions.
+	+ Loot tables in some dungeons/structures slightly changed/expanded.
+	+ Made most custom built dungeons "cheat" proof.
+
+
+
+REMOVED:
+	- UpToDate - Redundant, and was not functioning properly anymore.
+	- Mine&Battlegear2 - This mod also unfortunately causes hard mod comflicts with other mods that were deemed more important for progression play, and was removed. If you notice any significant changes/issues due to this change (besides not being able to dual wield/use shields) please report it in the issues section. 
+	- Archimedes Ships - Had too many desync issues in SMP. Replaced by Cuchaz Ships mod.
+	- Totem Defender - Replaced by Castle Defenders. 
+	- Other duplicate/redundant blocks and items.
+	- Invalid loot table items.
+	- Cleaned up several unused/duplicate NPCs and organized the tabs they're stored in. (more of a behind the scenes cleanup)
+
+
+
+Known Issues/Nuisances:
+	* Battle music can play without direct line of sight to some entities. There currently is no workaround for this.
+	* (CREATIVE MODE ONLY) Scrolling your player inventory while in another inventory window (e.g. a chest) causes a crash.
+	* Mob names show up multiple times, mainly with named mobs. I'm investigating if some of the redundancy can be removed.
+	* If your inventory is full and you stand on an item on the ground, the item counter will increase rapidly, but this seems to be only cosmetic. No items have been duped in tests.
+
+
+
+Other Notes:
+	* Limited testing has been done with the Ships mod. If you notice any problems, please report them in the issues section!
+	* Shields can still be used if you can find the rare drop from a Chocolate Quest dungeon (sword/shield combo)
