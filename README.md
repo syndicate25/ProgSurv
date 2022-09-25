@@ -1,4 +1,4 @@
-                                                 Progressive Survival Modpack
+                                              Progressive Survival Modpack
                                                                 
                                                                 
 Personally, I was tired of being able to mine to diamonds on Day 1, and defeat the Ender Dragon all within a matter of a few Minecraft days.  I also wasn't a fan of "hard progression" packs that forced you into a certain direction, before you could do something else.
