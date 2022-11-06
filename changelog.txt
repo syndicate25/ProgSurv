@@ -1,3 +1,197 @@
+3.0.19 BETA
+
+Fixes:
++ Updated even more quest text to be more accurate and in line with the latest updates.
++ More tooltips added to various items to help with their usage.
++ Adjusted spawn rates of all Vanilla MC animals and monsters since animals were somewhat sparse, and monsters needed a slight tweak.
++ Updated Crafttweaker scripts to handle new WildMobs item names after updating
++ Disabled EntityTickOptimization in ArchaicFix - Causing low spawn rates and weird minimap behavior (flickering).
+
+ 
+
+Mods:
++ Locks - Custom Dungeons now spawn with some chests/doors locked that require a lockpick to open, and are unbreakable (same as bedrock). Lockpicks have been given a fairly easy recipe, but also break easily. This mod isn't customizable for 1.7.10.
++ Hydrophobic Skeletons - Skeletons can no longer hide in water making them a little easier to handle.
++ Clock HUD - A different way to keep track of day/night. Toggle on/off with default key (COMMA).
++ Born in a Barn - Fixes a bug where Village doors keep chunks loaded.
++ Carveable Pumpkins - A little late for Halloween, but who doesn't like carving their own pumpkin?
++ Updated WildMobs to the latest version - Removes a few unused mobs, adds a few new mobs/creatures.
++ Nef's Deco Mod - Adds a few nice decorative items.
+
+ 
+
+Other Changes:
+* Added new quest for lockpicks to "Treasure Hunter" quest line.
+* Added Travelling Merchant - Sell some of your stuff to make a little extra money. They buy a variety of items, from Zombie Flesh, to crafted foods. Beware - Travelling Merchants naturally despawn, so pack a bag before trying to find one of these guys.
+* Added Bone Pickaxe recipe to Carpenter's Table for an alternate pickaxe option. Recipe is not in NEI.
+* Added Lockpick recipe to Anvil. Recipe is not in NEI.
+* Added a tab to the in-game Wiki for recipes I've added that are not in, and cannot be added to NEI. (Currently just two recipes)
+* Other minor tweaks to the in-game Wiki content.
+* Francine in the NPC Trade Market now buys the meat you get from your butchered animals.
+* Extended Seasons from 7 MC days to 15 MC days.
+
+
+*********************************************************************************************************************************************************************
+
+
+3.0.18 BETA
+
+Fixes:
+- Zombies and Skeletons can no longer track you through doors/walls. This will help with getting punched through walls since they won't all be up against your house all the time unless they can see you. Unfortunately I believe this is just a bug with 1.7.10 that I don't know how to get around. :(
+- Updated a few beginning quests to be more direct in their explanations.
+- Removed some old invalid information in some quests.
+- Removed some duplicate quests.
+- Moved and added some crafting/item quests to make more sense where they fall in the quest line.
+- Cobwebs should now drop between 1-2 string when broken with a sword.
+- Cauldrons from BetterVanilla should now be exchangeable for Vanilla Cauldrons (so you can salvage them at the salvaging station)
+- Mob heads on the minimap are now disabled by default. I recommend leaving that off otherwise some mob skins get messed up. Not sure why...
+
+Changes:
+- Slightly reduced the amount of item durability lost on death from 32 to 20.
+- Added tooltip to Jug to indicate it can be filled at a water source or trough.
+- Reduced twine to string recipe cost from 4 vines to 2 vines.
+- Increased Fresh Baked Bread recipe output from 2 to 3.
+- Crops that are planted when not in season will no longer break. They will however still not grow until they are in season again.
+- Updated Launch GUI to show world types for SMP and SSP.
+- Added a few new "bonus" armor crafting quests to the initial quest line.
+- Removed "Food Journal" as a starting item.
+- Added new "Coins!" quest line.
+- Added Tooltip to Coins to help make it more obvious what they're used for.
+- Removed "Wall Breaker" mob as it is unused now
+
+Mods:
+- Reverted Not Enough Items to version 2.1.1.2 since anything newer requires a ChickenCore version unobtainable through the Curseforge launcher.
+- Updated Cuchaz Ships mod - Now with less bloat! Yay! (Thanks jer0me226)
+- Added Modern KeyBinding - Features:
+* You can now define a keybinding's activation key with key modifiers. Like "Ctrl + G" or "Alt + S";
+* The keybindings with the same activation key but different key conflict contexts will not conflict now.
+* "Non-conflict keys" (disabled by default): The keybindings with the same key will all be activated if the key is pressed.
+- Added Keyboard Wizard: Legacy
+- The mod helps with solving key conflicts and finding unbound keys. It adds an "extra" controls GUI that displays an interactive keyboard in the center.
+- Updated a few mods to their latest versions.
+
+
+*********************************************************************************************************************************************************************
+
+
+3.0.17
+
+Fixes:
+- Mobs should no longer be able to punch you through the wall! This (hopefully) also fixes Zombies picking up/eating your items through the wall, too.
+- Updated a few beginning quests to be more direct in their explanations.
+- Removed some old invalid information in some quests.
+- Removed some duplicate quests.
+- Moved and added some crafting/item quests to make more sense where they fall in the quest line.
+- Cobwebs should now drop between 1-2 string when broken with a sword.
+- Cauldrons from BetterVanilla should now be exchangeable for Vanilla Cauldrons (so you can salvage them at the salvaging station).
+
+Changes:
+- Slightly reduced the amount of item durability lost on death from 32 to 20.
+- Added tooltip to Jug to indicate it can be filled at a water source or trough.
+- Reduced twine to string recipe cost from 4 vines to 2 vines.
+- Increased Fresh Baked Bread recipe output from 2 to 3.
+- Crops that are planted when not in season will no longer break. They will however still not grow until they are in season again.
+- Updated Launch GUI to show world types for SMP and SSP.
+- Added a few new "bonus" armor crafting quests to the initial quest line.
+- Removed "Food Journal" as a starting item.
+- Added new "Coins!" quest line.
+- Added Tooltip to Coins to help make it more obvious what they're used for.
+- Removed "Wall Breaker" mob as it is unused now.
+
+Mods:
+- Reverted Not Enough Items to version 2.1.1.2 since anything newer requires a ChickenCore version unobtainable through the Curseforge launcher.
+- Updated Cuchaz Ships mod - Now with less bloat! Yay! (Thanks jer0me226)
+- Added Modern KeyBinding - Features:
+* You can now define a keybinding's activation key with key modifiers. Like "Ctrl + G" or "Alt + S";
+* The keybindings with the same activation key but different key conflict contexts will not conflict now.
+* "Non-conflict keys" (disabled by default): The keybindings with the same key will all be activated if the key is pressed.
+- Added Keyboard Wizard: Legacy - Helps with solving key conflicts and finding unbound keys. It adds an "extra" controls GUI that displays an interactive keyboard in the center.
+- Updated a few mods to their latest versions.
+
+
+*********************************************************************************************************************************************************************
+
+
+3.0.16 HF-1
+
+HOTFIX:
+* Reverted Tornado logic - Tornadoes were far too destructive with the last update. My apologies to those who lost their homes...
+
+3.0.16
+
+Bugfixes:
+* Wizards' spells no longer crash the game when cast on players/other entities.
+* Hopefully fixed Rebind once and for all..
+* Candied Bacon recipe no longer requires "fire" to craft
+ 
+Changes:
+* Reduced time for biome text to disappear.
+* Corrected Oak Fence recipe (now gives 4x Oak Fences instead of 1x).
+* Added Tallow item - Animals, namely Cows, Bison, and Sheep, now drop Tallow occassionally. Used for Torches, and Cooking Oil.
+* Adjusted some music track values, and removed some invalid entries with missing tracks.
+* Fixed a lot of random non-critical/non-crashing errors in the loading log (added missing sounds, textures, fixed lang files, etc.)
+
+Mods:
++ AromaBackup/AromaCore - Because everyone loves backups of their world.  Should probably have had this in the first place.. 
++ CleanView - I believe the crash here has been resolved and was likely the same issue that was causing the TickingEntity crash with Wizards' spells. 
+*Enable/disable to your liking.
++ CompatibilityLayerForCustomSkinLoader - Fixes skins not rendering properly on the player in some cases, and fixes rendering of TWF Giants/Giant Miners.
++ Durability Show - Now you can see your held item's durability in a conveniently located information widget just above your hunger bar.
+- Flying Cullers (DISABLED) - Makes entities stop rendering at certain distances. With the addition of other fixes and improvements, this doesn't seem necessary anymore. 
+*Enable/disable to your liking.
+Notes:
+* Knowledge Talismans are disabled in Progressive Survival. The module has been renamed to indicate this in the Research Book. Clicking on the "MODULE DISABLED" will result in a game crash.
+* Working on getting a fix for Cuchaz Ships which causes a ton of console/log spam due to issues with CoreModTransformer.java.
+
+
+*********************************************************************************************************************************************************************
+
+
+3.0.15
+
+More fixes! Yay! My apologies for some basic oversights in the last two releases which have prevented players from making new worlds. 
+
+Added:
++ Elytra Bombing - Light and drop TNT from your Elytra!
++ New crafting recipe for Bottle o' Enchanting.
++ New rare-ish drop from mobs - XP Fragment, used for crafting Bottle o' Enchanting. XP is important!
+ 
+Removed:
+- Mine&Battlegear2 - Should have been removed a long time ago...yet, still wasn't and was causing conflicts/crashes.
+- CleanView - Causing repeating crash with Lootable Bodies.
+- VineClimber - Crashing servers with TickingEntity, disallowing players to reconnect until they're moved or the offending vine(s) are destroyed.
+* MouseTweaks - DISABLED IN CF LAUNCHER. 
+Reason: Left MB Tweak conflict was causing involuntary auto attacks. You can enable the mod if you prefer the functionality over the bug, but no support will be offered if you are using this mod for this issue. This will also cause the involuntary attack bug to return.
+
+Changes/Bugfixes:
+* Disabled BOP block generation/use for Taverns mod due to SMP conflicts.
+* Corrected Zombie detection range and spawn rate.
+* Corrected Skeleton spawn rate.
+* Adjusted ArchaicFix config options that were preventing monster spawns.
+* Reduced amount of levels required to unlock inventory slots with InfiniteInvo.
+* Adjusted block requirement over your head to only apply while actually under a certain Y level, instead of when you're under X amount of blocks, regardless of Y position. This should remedy the issue with needing a helmet when inside your home (above ground), trying to chop down a tall tree, etc.
+* Adjusted blocks that Skeletons and Zombies can break and fiddle with.
+* Fixed Rebind configs once again
+
+
+*********************************************************************************************************************************************************************
+
+
+3.0.14
+
+* Resolved Rebind mod crash
+* Added mods that never got added (oops)
+* Removed Simple Storage (was not supposed to be added after testing)
+* Updated version in ITLT
+
+...This should be all for now! :D
+
+
+*********************************************************************************************************************************************************************
+
+
+3.0.13
+
 ***HUGE UPDATE!***
 
 ***NEW WORLDS ARE HIGHLY RECOMMENDED!***
