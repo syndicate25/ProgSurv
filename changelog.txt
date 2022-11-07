@@ -1,3 +1,17 @@
+3.0.20 BETA
+
+Fixes:
+* Reverted change - Zombies "see through" walls again which just means they can sense where you are, regardless of what you're hiding behind. Originally "seeing through walls" was removed to alleviate Zombies punching you through the wall, which helped because they weren't constantly up against your walls. However, this has unintentionally changed the difficulty at night twofold - Zombies are no longer a threat to your doors, gates, etc., and night time is a lot tamer than it was intended to be. For these reasons, the change was reverted.
+* Zombies no longer eat things off the ground. This was a problem for people who would build against the wall because Zombies would eat whatever dropped out of those machines/blocks (Tanning Rack, for example) before you had a chance to pick the items up yourself, since they could "see through" walls. So fear not, your items are safe from consumption. You, however, are not.
+* Made locking chests and doors ACTUALLY invincible, as they were intended to be. This was an oversight in the last release (what's new..).
+* Removed "Faded" - An alternate "smarter" Zombie that spawns with weapons and tools. Zombies don't need to be smart. They overwhelm you with sheer numbers.
+* Further adjusted animal spawn rates to hopefully get them showing up in larger groups of their respective types. This means it's easier to find resources, but also more dangerous, since animals will help their own kind when attacked.
+* Removed some old unused config files to prevent downloading a negligible amount of unnecessary content
+
+
+*********************************************************************************************************************************************************************
+
+
 3.0.19 BETA
 
 Fixes:
