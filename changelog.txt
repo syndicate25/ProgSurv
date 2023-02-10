@@ -1,3 +1,73 @@
+3.0.25
+
+Changes:
+
+* Fixed NotEnoughItems and related dependency mods so pack will now load....
+* Added new "Animal Fat" texture. This replaces Tallow as a drop from animals.
+* Added new, more realistic recipe for Bottled Tallow.
+* Added new (and more generous) torch recipe, using Bottled Tallow.
+* New recipe added for Bottled Tallow.
+
+ 
+
+Mods
+
+Added:
+
++ NoSecrets - Removes Super Secret Settings from the Menu options.\
++ VineClimber - Allows you to climb vines even if there's no supporting block behind them. SMP issue was fixed, so this mod was added back to the modpack. Please report any crashes associated with this mod (if any) so I can report them back to the mod author.
+
+ 
+
+Updated the following mods to the latest versions (comments copied from changelog on respective mod pages):
+
+* ArchaicFix - See github page for more information. (https://github.com/embeddedt/ArchaicFix/releases/tag/0.4.1)
+* Controlling - Update to prevent some server side crashing issues.
+* Cuchaz Ships - Added Controlling and other mods to avoid weird crashes. Fixed SmartMoving bug.
+* CustomNPC+ - Features a bunch of fixes, improvements, and quality-of-life changes! See mod page for more information. (https://www.curseforge.com/minecraft/mc-mods/customnpc-plus)
+* EtFuturumRequiem - Several updates. See mod page for more information. (https://www.curseforge.com/minecraft/mc-mods/et-futurum-requiem)
+* FoamFix - Add fix for the "BiblioRCE" exploit./Automatically disable Log4J exploit workaround if a patched version of Log4J is detected.
+* GasStation - Update MixinExtras.
++ ModernSplash - Added game loading timer.
+* Netherlicious - Several updates. See mod page for more information. (https://www.curseforge.com/minecraft/mc-mods/netherlicious)
+* NotEnoughItems Unofficial - Lots of changes since GTNH 2.1.12, see changelogs located at https://github.com/GTNewHorizons/NotEnoughItems/releases
+* Thaumcraft 4 Tweaks - Add missing redraw and markDirty in tube and jars.
+* VillageNames - Several updates. See mod page for more information. (https://www.curseforge.com/minecraft/mc-mods/village-names)
+* XaerosWorldMap (SMP) - Compatible with Xaero's Minimap / Better PVP 20.23.0 or newer. Version 22.17.0 is HIGHLY recommended./Fixed map regions failing to load in singleplayer sometimes due to 1.28.6 changes, leaving large black squares.
+
+
+*********************************************************************************************************************************************************************
+
+
+3.0.23
+
+Changes:
+
+* Lock in Dragon Dungeon is now unbreakable.. again.
+* Zombies/Skeletons now spawn when it's dark enough for them to not burn, and should not spawn in the daytime anymore.
+* Removed Garden Biome - Nothing would spawn there anyway, can't figure out why, so that's why it was removed.
+* Adjusted Dire Wolf spawn rate.
+
+ 
+
+Mods
+
+Added:
+
++ BNBGamingLib - For my personal server and friends using CF to download the pack. Mod is required for Server using "Suspended Server" mod.
++ Hopper Ducts - More options for automation with hoppers.
++ Misc Tweaks - Sets appropriate difficulty (hard) automatically, plus a few other "things"
+* Updated Xaero's Minimap & Worldmap mods.
+
+Removed:
+
+- Hydrophobic Skeletons - Didn't realize all that did was make Skeletons die in the water, which is not the intended behavior.
+- R2R Utils - No longer see the need/relevance of forcing players to wear armor to dig, and it's causing problems when not underground still because it still thinks you're underground when you're not.... So, bye bye.
+
+
+*********************************************************************************************************************************************************************
+
+
 3.0.22
 
 Changes:
