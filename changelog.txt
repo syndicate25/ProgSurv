@@ -39,35 +39,6 @@ Updated the following mods to the latest versions (comments copied from changelo
 *********************************************************************************************************************************************************************
 
 
-3.0.23
-
-Changes:
-
-* Lock in Dragon Dungeon is now unbreakable.. again.
-* Zombies/Skeletons now spawn when it's dark enough for them to not burn, and should not spawn in the daytime anymore.
-* Removed Garden Biome - Nothing would spawn there anyway, can't figure out why, so that's why it was removed.
-* Adjusted Dire Wolf spawn rate.
-
- 
-
-Mods
-
-Added:
-
-+ BNBGamingLib - For my personal server and friends using CF to download the pack. Mod is required for Server using "Suspended Server" mod.
-+ Hopper Ducts - More options for automation with hoppers.
-+ Misc Tweaks - Sets appropriate difficulty (hard) automatically, plus a few other "things"
-* Updated Xaero's Minimap & Worldmap mods.
-
-Removed:
-
-- Hydrophobic Skeletons - Didn't realize all that did was make Skeletons die in the water, which is not the intended behavior.
-- R2R Utils - No longer see the need/relevance of forcing players to wear armor to dig, and it's causing problems when not underground still because it still thinks you're underground when you're not.... So, bye bye.
-
-
-*********************************************************************************************************************************************************************
-
-
 3.0.22
 
 Changes:
