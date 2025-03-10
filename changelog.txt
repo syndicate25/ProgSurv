@@ -14,7 +14,7 @@ Mods
 
 Added:
 
-+ NoSecrets - Removes Super Secret Settings from the Menu options.\
++ NoSecrets - Removes Super Secret Settings from the Menu options.
 + VineClimber - Allows you to climb vines even if there's no supporting block behind them. SMP issue was fixed, so this mod was added back to the modpack. Please report any crashes associated with this mod (if any) so I can report them back to the mod author.
 
  
